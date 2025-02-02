@@ -59,9 +59,12 @@ The **College Placement Management System** is a comprehensive platform designed
 ```sh
 git clone https://github.com/18vikastg/portal-for-placement.git
 cd placement-portal
+2️⃣ Install Dependencies
 npm install
+3️⃣ Setup Environment Variable
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+4️⃣ Run the Application
 npm run dev
 
 🌟 Future Enhancements
