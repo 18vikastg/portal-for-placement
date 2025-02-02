@@ -58,7 +58,7 @@ The **College Placement Management System** is a comprehensive platform designed
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/18vikastg/portal-for-placement.git
-cd placement-portal
+cd portal-for-placement
 2️⃣ Install Dependencies
 npm install
 3️⃣ Setup Environment Variable
